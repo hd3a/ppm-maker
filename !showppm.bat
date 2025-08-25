@@ -1,0 +1,1 @@
+ffplay -i %1 -vf "scale='300:-1':flags=neighbor
